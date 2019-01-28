@@ -1,8 +1,19 @@
 {
-  "name": "@tinydragonlabs/featureset",
+  "name": "featureset-js",
   "description": "Pluggable feature enablement library",
+  "homepage": "https://github.com/mike-feldmeier/featureset",
+  "bugs": "https://github.com/mike-feldmeier/featureset/issues",
+  "author": "Mike Feldmeier <mike.feldmeier@gmail.com> (http://www.mikefeldmeier.com)",
   "license": "MIT",
   "version": "1.0.0",
+  "keywords": [
+    "feature"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mike-feldmeier/featureset.git"
+  },
+  "main": "featureset.js",
   "scripts": {
     "test": "jasmine"
   },

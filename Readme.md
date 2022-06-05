@@ -93,3 +93,10 @@ Note that both the JSON file and the Javascript object have the same format; it 
 #### Custom Stores...
 
 To create your own backend store, implement the _enabled(env, key)_ method and pass the object to the _featureset.initialize({ store: <object> })_.
+
+### Change History
+|Version|Description|
+|---|---|
+|1.0.0|Initial Release|
+|1.0.1|Security Update|
+|1.0.2|Security Update|

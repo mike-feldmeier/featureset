@@ -5,7 +5,7 @@
   "bugs": "https://github.com/mike-feldmeier/featureset/issues",
   "author": "Mike Feldmeier <mike.feldmeier@gmail.com> (http://www.mikefeldmeier.com)",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "feature"
   ],
@@ -17,10 +17,9 @@
   "scripts": {
     "test": "jasmine"
   },
-  "dependencies": {},
   "devDependencies": {
     "jasmine": "^3.3.1",
-    "rewire": "^4.0.1"
+    "rewire": "^6.0.0"
   },
   "prettier": {
     "semi": false,
